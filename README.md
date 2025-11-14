@@ -358,27 +358,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🎯 Melhorias Futuras
-
-- [ ] Autenticação de usuários
-- [ ] Dashboard com métricas de classificação
-- [ ] Suporte a mais idiomas
-- [ ] Cache de respostas frequentes
-- [ ] Histórico de classificações
-- [ ] API rate limiting
-- [ ] Testes unitários e integração
-- [ ] CI/CD com GitHub Actions
-
----
-
-## 👨‍💻 Autor
-
-**Pedro Froeder Rocha**
-
-- GitHub: [@pedrofroeder](https://github.com/pedrofroeder)
-
----
-
 ## 📄 Licença
 
 Este projeto foi desenvolvido como parte de um desafio técnico da **AutoU**.
@@ -391,6 +370,4 @@ Este projeto foi desenvolvido como parte de um desafio técnico da **AutoU**.
 - **Anthropic** pela API do Claude
 - Comunidade open-source pelas ferramentas utilizadas
 
----
-
-**⭐ Se este projeto foi útil, considere dar uma estrela no repositório!**
+-
